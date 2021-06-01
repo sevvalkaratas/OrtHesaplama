@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">OrtHesaplama</string>
+    <string name="sttitle">OGRENCI ORTALAMA HESAPLAMA SISTEMI</string>
+    <string name="stname">DERS ADI</string>
+    <string name="stmarks1">VIZE NOTU</string>
+    <string name="stmarks2">FINAL NOTU</string>
+    <string name="stmarks3">PROJE NOTU</string>
+    <string name="sttotal">TOPLAM NOT</string>
+    <string name="stavg">ORTALAMA</string>
+    <string name="stgrade">HARF NOTU</string>
+    <string name="ok">TAMAM</string>
+    <string name="clear">SİL</string>
+
+    <string name="st1">1.YARIYIL</string>
+    <string name="st2">2.YARIYIL</string>
+    <string name="st3">3.YARIYIL</string>
+    <string name="st4">4.YARIYIL</string>
+    <string name="st5">5.YARIYIL</string>
+    <string name="st6">6.YARIYIL</string>
+    <string name="st7">7.YARIYIL</string>
+    <string name="st8">8.YARIYIL</string>
+    <string name="sttitle2">DÖNEM SONU ORTALAMA SİSTEMİ</string>
+    <string name="ok2">HESAPLA</string>
+    <string name="clear2">SİL</string>
+    <string name="stavg1">ORTALAMA</string>
+    <string name="stgrade2">HARF NOTU</string>
+
+
+
+</resources>
